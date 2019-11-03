@@ -16,5 +16,6 @@
  &#60;android.platform.version>8.0&#60;/android.platform.version>
  </li>
  <li>Open console window in the folder you have previously unpack project</li>
+ <li>Setup your Appium server to use Host = localhost an Port = 4723 and run it</li>
  <li>Execut "mvn test -Pdev"</li>
 </ul>
